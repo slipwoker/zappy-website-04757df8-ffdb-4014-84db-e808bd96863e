@@ -1,0 +1,85 @@
+# Cosmetic-Shop — Generative Engine Optimization Map
+
+> A קוסמטיקה ויופי business.
+
+---
+
+## Pages
+
+### Home
+https://cosmetic-shop-04757df8.zappy5.app
+
+### About
+https://cosmetic-shop-04757df8.zappy5.app/about
+
+### Collections
+https://cosmetic-shop-04757df8.zappy5.app/collections
+
+### Contact
+https://cosmetic-shop-04757df8.zappy5.app/contact
+
+### Products
+https://cosmetic-shop-04757df8.zappy5.app/products
+המוצרים שלנו - Cosmetic-Shop
+
+### Cart
+https://cosmetic-shop-04757df8.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://cosmetic-shop-04757df8.zappy5.app/checkout
+תשלום
+
+### Login
+https://cosmetic-shop-04757df8.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://cosmetic-shop-04757df8.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://cosmetic-shop-04757df8.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://cosmetic-shop-04757df8.zappy5.app/product/:slug
+פרטי המוצר - Cosmetic-Shop
+
+### Category
+https://cosmetic-shop-04757df8.zappy5.app/category/:slug
+מוצרים - Cosmetic-Shop
+
+## Legal & Policy
+
+### Privacy Policy
+https://cosmetic-shop-04757df8.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://cosmetic-shop-04757df8.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://cosmetic-shop-04757df8.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Cosmetic-Shop
+Cosmetic-Shop is a business in the קוסמטיקה ויופי industry.
+
+## Target Audience
+גברים ונשים שרוצים לרכוש תכשירי קוסמטיקה
+
+## Industry
+קוסמטיקה ויופי
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://cosmetic-shop-04757df8.zappy5.app/sitemap.xml
+- **Robots.txt**: https://cosmetic-shop-04757df8.zappy5.app/robots.txt

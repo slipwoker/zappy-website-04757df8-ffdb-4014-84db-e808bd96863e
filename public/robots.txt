@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cosmetic-shop-04757df8.zappy5.app/sitemap.xml
