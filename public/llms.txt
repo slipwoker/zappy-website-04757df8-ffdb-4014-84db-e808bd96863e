@@ -1,85 +1,75 @@
-# Cosmetic-Shop — Generative Engine Optimization Map
-
-> A קוסמטיקה ויופי business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### Home
-https://cosmetic-shop-04757df8.zappy5.app
+https://example.com
 
 ### About
-https://cosmetic-shop-04757df8.zappy5.app/about
+https://example.com/about
 
 ### Collections
-https://cosmetic-shop-04757df8.zappy5.app/collections
+https://example.com/collections
 
 ### Contact
-https://cosmetic-shop-04757df8.zappy5.app/contact
+https://example.com/contact
 
 ### Products
-https://cosmetic-shop-04757df8.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Cosmetic-Shop
 
 ### Cart
-https://cosmetic-shop-04757df8.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://cosmetic-shop-04757df8.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://cosmetic-shop-04757df8.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://cosmetic-shop-04757df8.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://cosmetic-shop-04757df8.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://cosmetic-shop-04757df8.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Cosmetic-Shop
 
 ### Category
-https://cosmetic-shop-04757df8.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Cosmetic-Shop
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://cosmetic-shop-04757df8.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://cosmetic-shop-04757df8.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://cosmetic-shop-04757df8.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Cosmetic-Shop
-Cosmetic-Shop is a business in the קוסמטיקה ויופי industry.
-
-## Target Audience
-גברים ונשים שרוצים לרכוש תכשירי קוסמטיקה
-
-## Industry
-קוסמטיקה ויופי
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://cosmetic-shop-04757df8.zappy5.app/sitemap.xml
-- **Robots.txt**: https://cosmetic-shop-04757df8.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
